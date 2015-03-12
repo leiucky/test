@@ -1,4 +1,4 @@
-//[leetcode] two sum 
+//[leetcode] two sum for github change test
 bool compareSTB(pair<int, int> x, pair<int, int> y)
 {
 	return x.first < y.first;
